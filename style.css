@@ -11,15 +11,10 @@
 }
 
 
-
-
-
-
-main {
-    background: var(--primary-green);
+body {
+    font-size: 14px;
+    background-color: var(--dark-grey);
 }
-
-
 
 
 
