@@ -18,13 +18,14 @@ body {
     font-family: 'Inter', sans-serif;
     max-width: 1440px;
     min-width: 375px;
+    padding: 20px;
 }
 
 /* Profile Section */
 
 main {
     background-color: var(--dark-grey);
-
+    margin: 50px;
 }
 
 .flex-container {
@@ -51,11 +52,13 @@ main {
 }
 
 .bio-text {
-
      color: var(--white);
 }
 
+#social {
+margin-top: -60px;
 
+}
 /* Social Section */
 
 
