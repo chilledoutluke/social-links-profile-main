@@ -40,8 +40,8 @@ main {
 }
 
 .flex-container h2 {
-    margin: -5px;
-    padding-top: 30px;
+    margin: -2px;
+    padding-top: 0px;
     font-weight: 700px;
 }
 
@@ -51,7 +51,7 @@ main {
 }
 
 .bio-text {
-     padding: 10px;
+
      color: var(--white);
 }
 
