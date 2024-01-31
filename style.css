@@ -16,8 +16,6 @@ body {
     background-color: var(--off-black);
     color: var(--white);
     font-family: 'Inter', sans-serif;
-    max-width: 1440px;
-    min-width: 375px;
     padding: 20px;
 }
 
@@ -26,6 +24,9 @@ body {
 main {
     background-color: var(--dark-grey);
     margin: 50px;
+    max-width: 1440px;
+    min-width: 375px;
+    border-radius: 20px;
 }
 
 .flex-container {
