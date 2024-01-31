@@ -39,11 +39,11 @@ main {
 .flex-container img {
     border-radius: 60%;
     width: 120px;
+
 }
 
 .flex-container h2 {
-    margin: -2px;
-    padding-top: 0px;
+    margin: 10px;
     font-weight: 700px;
 }
 
@@ -54,22 +54,20 @@ main {
 
 .bio-text {
      color: var(--white);
+     margin-top: 30px;
 }
 
 /* Social Section */
 
 #social {
-    margin-top: -70px;
+    margin-top: -50px;
 }
 
  button {
     background-color: var(--grey);
     color: var(--white);
-    box-shadow: none;
-    background:none;
-    outline: none;
-
-
+    border-style:hidden;
+    margin-bottom: 10px;
 }
 
 
