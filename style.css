@@ -56,11 +56,13 @@ main {
      color: var(--white);
 }
 
-#social {
-margin-top: -60px;
-
-}
 /* Social Section */
+
+#social {
+    margin-top: -70px;
+}
+
+
 
 
 
