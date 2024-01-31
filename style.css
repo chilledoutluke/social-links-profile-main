@@ -62,7 +62,15 @@ main {
     margin-top: -70px;
 }
 
+ button {
+    background-color: var(--grey);
+    color: var(--white);
+    box-shadow: none;
+    background:none;
+    outline: none;
 
+
+}
 
 
 
