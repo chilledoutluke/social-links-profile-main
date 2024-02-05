@@ -71,8 +71,14 @@ main {
     width: 300px;
     padding: 8px;
     border-radius: 5px;
+    font-weight: bold;
 }
 
+button:active {
+    background-color: var(--primary-green);
+    color: var(--off-black);
+    font-weight: bold;
+}
 
 
 
